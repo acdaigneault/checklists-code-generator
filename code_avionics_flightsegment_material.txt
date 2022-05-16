@@ -1,0 +1,41 @@
+\begin{center}
+    \begin{tabular}{|m{0.05\paperwidth} m{0.71\paperwidth}|m{0.015\paperwidth}|}
+        \hline \listTitle & \large\bf  & \\ 
+        \hline \listElem &  &  \\
+    \hline\end{tabular}
+
+    \vspace{-1.5pt}
+    \begin{minipage}{0.415\paperwidth}
+        \begin{tabular}{|m{0.05\paperwidth} m{0.29\paperwidth}|m{0.015\paperwidth}|}
+                    \subListElem & \hspace{5pt}  PRAM &  \\
+            \hline  \subListElem & \hspace{5pt}  HAM &  \\ 
+            \hline  \subListElem & \hspace{5pt}  BAM &  \\ 
+            \hline  \subListElem & \hspace{5pt}  GPAM &  \\ 
+            \hline  \subListElem & \hspace{5pt}  RAM &  \\ 
+            \hline  \subListElem & \hspace{5pt}  BAT &  \\ 
+            \hline  \subListElem & \hspace{5pt}  GPS Board &  \\ 
+            \hline  \subListElem & \hspace{5pt}  Raven &  \\ 
+            \hline  \subListElem & \hspace{5pt}  Stratologger &  \\ 
+            \hline  \subListElem & \hspace{5pt}  GPAM Power Harness &  \\ 
+            \hline\end{tabular} 
+    \end{minipage}%
+    \begin{minipage}{0.45\paperwidth} 
+        \begin{tabular}{m{0.05\paperwidth} m{0.2957\paperwidth}|m{0.015\paperwidth}|} 
+                    \subListElem & \hspace{5pt}  BAT Power Harness &  \\ 
+            \hline  \subListElem & \hspace{5pt}  HAM Power Harness &  \\ 
+            \hline  \subListElem & \hspace{5pt}  RAM Power Harness &  \\ 
+            \hline  \subListElem & \hspace{5pt}  RAM SPI Harness &  \\ 
+            \hline  \subListElem & \hspace{5pt}  Radio GP I/O Harness &  \\ 
+            \hline  \subListElem & \hspace{5pt}  Sacrificial Thermistance Harness &  \\ 
+            \hline  \subListElem & \hspace{5pt}  I2C Harness &  \\ 
+            \hline  \subListElem & \hspace{5pt}  MCU Valve-Igniters Harness &  \\ 
+            \hline  \subListElem & \hspace{5pt}  GPS Harness &  \\ 
+            \hline  \subListElem & \hspace{5pt}  GPS-Fintenna Harness &  \\ 
+        \hline \end{tabular} 
+    \end{minipage} 
+\begin{tabular}{ |m{0.05\paperwidth} m{0.71\paperwidth}|m{0.015\paperwidth}| } 
+% Write checklist's steps here 
+    \hline \listElem &  & \\ 
+\hline\end{tabular} 
+\end{center}  
+\smallskip 
