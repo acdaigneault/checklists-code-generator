@@ -1,0 +1,27 @@
+\begin{center}
+    \begin{tabular}{|m{0.05\paperwidth} m{0.71\paperwidth}|m{0.015\paperwidth}|}
+        \hline \listTitle & \large\bf  & \\ 
+        \hline \listElem &  &  \\
+    \hline\end{tabular}
+
+    \vspace{-1.5pt}
+    \begin{minipage}{0.415\paperwidth}
+        \begin{tabular}{|m{0.05\paperwidth} m{0.29\paperwidth}|m{0.015\paperwidth}|}
+                    \subListElem & \hspace{5pt}  HAM &  \\
+            \hline  \subListElem & \hspace{5pt}  CAN Latchless Harness &  \\ 
+            \hline  \subListElem & \hspace{5pt}  External Power Harness &  \\ 
+            \hline\end{tabular} 
+    \end{minipage}%
+    \begin{minipage}{0.45\paperwidth} 
+        \begin{tabular}{m{0.05\paperwidth} m{0.2957\paperwidth}|m{0.015\paperwidth}|} 
+                    \subListElem & \hspace{5pt}  Toughbook Laptop &  \\ 
+            \hline  \subListElem & \hspace{5pt}  AGRUM &  \\ 
+            \hline  \subListElem & \hspace{5pt}  USB Connector &  \\ 
+        \hline \end{tabular} 
+    \end{minipage} 
+\begin{tabular}{ |m{0.05\paperwidth} m{0.71\paperwidth}|m{0.015\paperwidth}| } 
+% Write checklist's steps here 
+    \hline \listElem &  & \\ 
+\hline\end{tabular} 
+\end{center}  
+\smallskip 

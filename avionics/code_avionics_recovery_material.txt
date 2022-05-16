@@ -1,0 +1,29 @@
+\begin{center}
+    \begin{tabular}{|m{0.05\paperwidth} m{0.71\paperwidth}|m{0.015\paperwidth}|}
+        \hline \listTitle & \large\bf  & \\ 
+        \hline \listElem & Prepare the material : & \cellcolor{Black} \\
+    \hline\end{tabular}
+
+    \vspace{-1.5pt}
+% Write material list here (or use .txt file and Python code)
+    \begin{minipage}{0.415\paperwidth}
+        \begin{tabular}{|m{0.05\paperwidth} m{0.29\paperwidth}|m{0.015\paperwidth}|}
+                    \subListElem & \hspace{5pt}   &  \\
+            \hline  \subListElem & \hspace{5pt}   &  \\ 
+            \hline\end{tabular} 
+    \end{minipage}%
+    \begin{minipage}{0.45\paperwidth} 
+        \begin{tabular}{m{0.05\paperwidth} m{0.2957\paperwidth}|m{0.015\paperwidth}|} 
+                    \subListElem & \hspace{5pt}   &  \\ 
+            \hline  \subListElem & \hspace{5pt}    &  \\ 
+        \hline \end{tabular} 
+    \end{minipage}% 
+\vspace{-1.5pt}
+\begin{minipage}{0.91\paperwidth}
+\begin{tabular}{ |m{0.05\paperwidth} m{0.71\paperwidth}|m{0.015\paperwidth}| } 
+% Write checklist's steps here 
+   \listElem &  & \\ 
+\hline\end{tabular} 
+\end{minipage}
+\end{center}  
+\smallskip 
